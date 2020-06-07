@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="src:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/src_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="src" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/ansj_seg-5.1.6.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="src/web/Web" />
+    </root>
+  </artifact>
+</component>
